@@ -1,1 +1,1 @@
-TinDog Starting Files
+A work in progress.  My shareware projects.
