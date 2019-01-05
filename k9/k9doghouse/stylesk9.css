@@ -1,0 +1,126 @@
+body {
+  background-color: whitesmoke;
+  font-family: "Merriweather", serif;
+  position: relative;
+}
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 5.25rem;
+  margin-top: 1.5rem;
+  position: relative;
+  text-shadow: 0.25rem 0.25rem 0.375rem #33998575;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.25rem;
+  position: relative;
+  text-shadow: 0.1875rem 0.1875rem 0.25rem #33998575;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.75rem;
+  position: relative;
+  text-shadow: 0.125rem 0.125rem 0.1875rem #33998575;
+}
+
+h4 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.25rem;
+  margin: 2rem;
+  position: relative;
+  text-shadow: 0.0625rem 0.0625rem 0.1875rem #33998575;
+}
+
+hr {
+  background-color: #e0efea;
+  color: #e0efea95;
+  height: 0.25rem;
+  margin: 0.333rem auto;
+  position: static;
+  width: 33%;
+}
+
+p {
+  margin: 2rem;
+}
+
+.main-title-box {
+  margin-bottom: 4rem;
+  text-align: center;
+}
+
+.codebreaker-box {
+  height: 32rem;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  width: 70%;
+}
+
+.cb-image {
+  margin: 2rem;
+  position: relative;
+}
+
+.cb-blurb {
+  margin: 2rem;
+  position: relative;
+}
+
+.magazine {
+  text-decoration-line: underline;
+}
+
+.slidefour-box {
+
+  height: 32rem;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  width: 70%;
+}
+
+.s4-image {
+  margin: 2rem;
+  position: relative;
+}
+
+.s4-blurb {
+  margin: 2rem;
+  position: relative;
+}
+
+.rivergauge-box {
+  display: block;
+  margin-bottom: 3rem;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+.weathered-box {
+  display: block;
+  margin-bottom: 3rem;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+.calc-box {
+  display: block;
+  margin-bottom: 3rem;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+.donate-box {
+  display: block;
+  margin-bottom: 3rem;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
